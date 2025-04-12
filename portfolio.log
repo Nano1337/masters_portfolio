@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.10)  12 APR 2025 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.10)  12 APR 2025 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -422,13 +422,11 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 File: vanderbilt_logo.pdf Graphic file (type pdf)
 <use vanderbilt_logo.pdf>
 Package pdftex.def Info: vanderbilt_logo.pdf  used on input line 55.
-(pdftex.def)             Requested size: 187.89914pt x 154.31796pt.
+(pdftex.def)             Requested size: 140.92793pt x 115.7415pt.
  [1
 
 {/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
-vanderbilt_logo.pdf>] [2
-
-] (./portfolio.toc
+vanderbilt_logo.pdf>] (./portfolio.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -444,16 +442,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97 \clearpage
+l.96 \clearpage
                 [1
 
-]
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.100 \sectiondivider{Summary Data}
-                                    [2
+] [2
 
 
 ]
@@ -462,10 +454,10 @@ Chapter 1.
 
 pdfTeX warning: pdflatex (file ./spring2025transcript.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
-<spring2025transcript.pdf, id=167, 614.295pt x 794.97pt>
+<spring2025transcript.pdf, id=164, 614.295pt x 794.97pt>
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf>
-Package pdftex.def Info: spring2025transcript.pdf  used on input line 118.
+Package pdftex.def Info: spring2025transcript.pdf  used on input line 117.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -473,7 +465,7 @@ pdfTeX warning: pdflatex (file ./spring2025transcript.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf>
-Package pdftex.def Info: spring2025transcript.pdf  used on input line 118.
+Package pdftex.def Info: spring2025transcript.pdf  used on input line 117.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -483,16 +475,16 @@ d PDF version <1.6>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./spring2025transcript.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
-<spring2025transcript.pdf, id=170, page=1, 614.295pt x 794.97pt>
+<spring2025transcript.pdf, id=167, page=1, 614.295pt x 794.97pt>
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 1>
 Package pdftex.def Info: spring2025transcript.pdf , page1 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 1>
 Package pdftex.def Info: spring2025transcript.pdf , page1 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 [3
 
@@ -501,17 +493,17 @@ Package pdftex.def Info: spring2025transcript.pdf , page1 used on input line 11
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 1>
 Package pdftex.def Info: spring2025transcript.pdf , page1 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 1>
 Package pdftex.def Info: spring2025transcript.pdf , page1 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 1>
 Package pdftex.def Info: spring2025transcript.pdf , page1 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [4
 
@@ -519,21 +511,21 @@ Package pdftex.def Info: spring2025transcript.pdf , page1 used on input line 11
 
 pdfTeX warning: pdflatex (file ./spring2025transcript.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
-<spring2025transcript.pdf, id=200, page=2, 614.295pt x 794.97pt>
+<spring2025transcript.pdf, id=197, page=2, 614.295pt x 794.97pt>
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 2>
 Package pdftex.def Info: spring2025transcript.pdf , page2 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 2>
 Package pdftex.def Info: spring2025transcript.pdf , page2 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 2>
 Package pdftex.def Info: spring2025transcript.pdf , page2 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 [5
 
@@ -541,21 +533,21 @@ Package pdftex.def Info: spring2025transcript.pdf , page2 used on input line 11
 
 pdfTeX warning: pdflatex (file ./spring2025transcript.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
-<spring2025transcript.pdf, id=206, page=3, 614.295pt x 794.97pt>
+<spring2025transcript.pdf, id=202, page=3, 614.295pt x 794.97pt>
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 3>
 Package pdftex.def Info: spring2025transcript.pdf , page3 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 3>
 Package pdftex.def Info: spring2025transcript.pdf , page3 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: spring2025transcript.pdf Graphic file (type pdf)
 <use spring2025transcript.pdf, page 3>
 Package pdftex.def Info: spring2025transcript.pdf , page3 used on input line 11
-8.
+7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 [6
 
@@ -574,10 +566,10 @@ Chapter 3.
 
 pdfTeX warning: pdflatex (file ./Haoli_Yin_CV_2025.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<Haoli_Yin_CV_2025.pdf, id=227, 614.295pt x 794.97pt>
+<Haoli_Yin_CV_2025.pdf, id=224, 614.295pt x 794.97pt>
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf  used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf  used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -585,7 +577,7 @@ pdfTeX warning: pdflatex (file ./Haoli_Yin_CV_2025.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf  used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf  used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -595,14 +587,14 @@ DF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./Haoli_Yin_CV_2025.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<Haoli_Yin_CV_2025.pdf, id=230, page=1, 614.295pt x 794.97pt>
+<Haoli_Yin_CV_2025.pdf, id=227, page=1, 614.295pt x 794.97pt>
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 1>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 1>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 [11
 
@@ -610,15 +602,15 @@ Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 150.
 ]
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 1>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 1>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 1>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [12
 
@@ -626,18 +618,18 @@ Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page1 used on input line 150.
 
 pdfTeX warning: pdflatex (file ./Haoli_Yin_CV_2025.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<Haoli_Yin_CV_2025.pdf, id=283, page=2, 614.295pt x 794.97pt>
+<Haoli_Yin_CV_2025.pdf, id=280, page=2, 614.295pt x 794.97pt>
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 2>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page2 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page2 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 2>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page2 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page2 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 2>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page2 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page2 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 [13
 
@@ -645,18 +637,18 @@ Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page2 used on input line 150.
 
 pdfTeX warning: pdflatex (file ./Haoli_Yin_CV_2025.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<Haoli_Yin_CV_2025.pdf, id=289, page=3, 614.295pt x 794.97pt>
+<Haoli_Yin_CV_2025.pdf, id=286, page=3, 614.295pt x 794.97pt>
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 3>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page3 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page3 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 3>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page3 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page3 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 3>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page3 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page3 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 [14
 
@@ -664,18 +656,18 @@ Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page3 used on input line 150.
 
 pdfTeX warning: pdflatex (file ./Haoli_Yin_CV_2025.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<Haoli_Yin_CV_2025.pdf, id=304, page=4, 614.295pt x 794.97pt>
+<Haoli_Yin_CV_2025.pdf, id=301, page=4, 614.295pt x 794.97pt>
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 4>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page4 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page4 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 4>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page4 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page4 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: Haoli_Yin_CV_2025.pdf Graphic file (type pdf)
 <use Haoli_Yin_CV_2025.pdf, page 4>
-Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page4 used on input line 150.
+Package pdftex.def Info: Haoli_Yin_CV_2025.pdf , page4 used on input line 149.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 [15
 
@@ -687,132 +679,132 @@ Chapter 4.
 
 
 ]
-<ume-fakenews.pdf, id=324, 614.295pt x 794.97pt>
+<ume-fakenews.pdf, id=320, 614.295pt x 794.97pt>
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf>
-Package pdftex.def Info: ume-fakenews.pdf  used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf  used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf>
-Package pdftex.def Info: ume-fakenews.pdf  used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf  used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<ume-fakenews.pdf, id=327, page=1, 614.295pt x 794.97pt>
+<ume-fakenews.pdf, id=323, page=1, 614.295pt x 794.97pt>
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 1>
-Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 1>
-Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [18]
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 1>
-Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 1>
-Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 1>
-Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page1 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [19
 
  <./ume-fakenews.pdf>]
-<ume-fakenews.pdf, id=362, page=2, 614.295pt x 794.97pt>
+<ume-fakenews.pdf, id=359, page=2, 614.295pt x 794.97pt>
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 2>
-Package pdftex.def Info: ume-fakenews.pdf , page2 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page2 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 2>
-Package pdftex.def Info: ume-fakenews.pdf , page2 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page2 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 2>
-Package pdftex.def Info: ume-fakenews.pdf , page2 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page2 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [20
 
  <./ume-fakenews.pdf>]
-<ume-fakenews.pdf, id=367, page=3, 614.295pt x 794.97pt>
+<ume-fakenews.pdf, id=364, page=3, 614.295pt x 794.97pt>
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 3>
-Package pdftex.def Info: ume-fakenews.pdf , page3 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page3 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 3>
-Package pdftex.def Info: ume-fakenews.pdf , page3 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page3 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 3>
-Package pdftex.def Info: ume-fakenews.pdf , page3 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page3 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [21
 
  <./ume-fakenews.pdf>]
-<ume-fakenews.pdf, id=409, page=4, 614.295pt x 794.97pt>
+<ume-fakenews.pdf, id=406, page=4, 614.295pt x 794.97pt>
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 4>
-Package pdftex.def Info: ume-fakenews.pdf , page4 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page4 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 4>
-Package pdftex.def Info: ume-fakenews.pdf , page4 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page4 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 4>
-Package pdftex.def Info: ume-fakenews.pdf , page4 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page4 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [22
 
  <./ume-fakenews.pdf>]
-<ume-fakenews.pdf, id=426, page=5, 614.295pt x 794.97pt>
+<ume-fakenews.pdf, id=423, page=5, 614.295pt x 794.97pt>
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 5>
-Package pdftex.def Info: ume-fakenews.pdf , page5 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page5 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 5>
-Package pdftex.def Info: ume-fakenews.pdf , page5 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page5 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 5>
-Package pdftex.def Info: ume-fakenews.pdf , page5 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page5 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [23
 
  <./ume-fakenews.pdf>]
-<ume-fakenews.pdf, id=432, page=6, 614.295pt x 794.97pt>
+<ume-fakenews.pdf, id=428, page=6, 614.295pt x 794.97pt>
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 6>
-Package pdftex.def Info: ume-fakenews.pdf , page6 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page6 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 6>
-Package pdftex.def Info: ume-fakenews.pdf , page6 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page6 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 6>
-Package pdftex.def Info: ume-fakenews.pdf , page6 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page6 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [24
 
  <./ume-fakenews.pdf>]
-<ume-fakenews.pdf, id=437, page=7, 614.295pt x 794.97pt>
+<ume-fakenews.pdf, id=434, page=7, 614.295pt x 794.97pt>
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 7>
-Package pdftex.def Info: ume-fakenews.pdf , page7 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page7 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 7>
-Package pdftex.def Info: ume-fakenews.pdf , page7 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page7 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ume-fakenews.pdf Graphic file (type pdf)
 <use ume-fakenews.pdf, page 7>
-Package pdftex.def Info: ume-fakenews.pdf , page7 used on input line 203.
+Package pdftex.def Info: ume-fakenews.pdf , page7 used on input line 202.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [25
 
@@ -820,23 +812,23 @@ Package pdftex.def Info: ume-fakenews.pdf , page7 used on input line 203.
 
 ]
 Chapter 5.
-<privml.pdf, id=446, 722.7pt x 406.51875pt>
+<privml.pdf, id=443, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf>
-Package pdftex.def Info: privml.pdf  used on input line 217.
+Package pdftex.def Info: privml.pdf  used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf>
-Package pdftex.def Info: privml.pdf  used on input line 217.
+Package pdftex.def Info: privml.pdf  used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
-<privml.pdf, id=449, page=1, 722.7pt x 406.51875pt>
+<privml.pdf, id=446, page=1, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 1>
-Package pdftex.def Info: privml.pdf , page1 used on input line 217.
+Package pdftex.def Info: privml.pdf , page1 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 1>
-Package pdftex.def Info: privml.pdf , page1 used on input line 217.
+Package pdftex.def Info: privml.pdf , page1 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 [27
 
@@ -844,383 +836,383 @@ Package pdftex.def Info: privml.pdf , page1 used on input line 217.
 ]
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 1>
-Package pdftex.def Info: privml.pdf , page1 used on input line 217.
+Package pdftex.def Info: privml.pdf , page1 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 1>
-Package pdftex.def Info: privml.pdf , page1 used on input line 217.
+Package pdftex.def Info: privml.pdf , page1 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 1>
-Package pdftex.def Info: privml.pdf , page1 used on input line 217.
+Package pdftex.def Info: privml.pdf , page1 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [28
 
  <./privml.pdf>]
-<privml.pdf, id=497, page=2, 722.7pt x 406.51875pt>
+<privml.pdf, id=494, page=2, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 2>
-Package pdftex.def Info: privml.pdf , page2 used on input line 217.
+Package pdftex.def Info: privml.pdf , page2 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 2>
-Package pdftex.def Info: privml.pdf , page2 used on input line 217.
+Package pdftex.def Info: privml.pdf , page2 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 2>
-Package pdftex.def Info: privml.pdf , page2 used on input line 217.
+Package pdftex.def Info: privml.pdf , page2 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [29
 
  <./privml.pdf>]
-<privml.pdf, id=504, page=3, 722.7pt x 406.51875pt>
+<privml.pdf, id=500, page=3, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 3>
-Package pdftex.def Info: privml.pdf , page3 used on input line 217.
+Package pdftex.def Info: privml.pdf , page3 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 3>
-Package pdftex.def Info: privml.pdf , page3 used on input line 217.
+Package pdftex.def Info: privml.pdf , page3 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 3>
-Package pdftex.def Info: privml.pdf , page3 used on input line 217.
+Package pdftex.def Info: privml.pdf , page3 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [30
 
  <./privml.pdf>]
-<privml.pdf, id=517, page=4, 722.7pt x 406.51875pt>
+<privml.pdf, id=514, page=4, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 4>
-Package pdftex.def Info: privml.pdf , page4 used on input line 217.
+Package pdftex.def Info: privml.pdf , page4 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 4>
-Package pdftex.def Info: privml.pdf , page4 used on input line 217.
+Package pdftex.def Info: privml.pdf , page4 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 4>
-Package pdftex.def Info: privml.pdf , page4 used on input line 217.
+Package pdftex.def Info: privml.pdf , page4 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [31
 
  <./privml.pdf>]
-<privml.pdf, id=539, page=5, 722.7pt x 406.51875pt>
+<privml.pdf, id=536, page=5, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 5>
-Package pdftex.def Info: privml.pdf , page5 used on input line 217.
+Package pdftex.def Info: privml.pdf , page5 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 5>
-Package pdftex.def Info: privml.pdf , page5 used on input line 217.
+Package pdftex.def Info: privml.pdf , page5 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 5>
-Package pdftex.def Info: privml.pdf , page5 used on input line 217.
+Package pdftex.def Info: privml.pdf , page5 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [32
 
  <./privml.pdf>]
-<privml.pdf, id=545, page=6, 722.7pt x 406.51875pt>
+<privml.pdf, id=542, page=6, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 6>
-Package pdftex.def Info: privml.pdf , page6 used on input line 217.
+Package pdftex.def Info: privml.pdf , page6 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 6>
-Package pdftex.def Info: privml.pdf , page6 used on input line 217.
+Package pdftex.def Info: privml.pdf , page6 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 6>
-Package pdftex.def Info: privml.pdf , page6 used on input line 217.
+Package pdftex.def Info: privml.pdf , page6 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [33
 
  <./privml.pdf>]
-<privml.pdf, id=551, page=7, 722.7pt x 406.51875pt>
+<privml.pdf, id=548, page=7, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 7>
-Package pdftex.def Info: privml.pdf , page7 used on input line 217.
+Package pdftex.def Info: privml.pdf , page7 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 7>
-Package pdftex.def Info: privml.pdf , page7 used on input line 217.
+Package pdftex.def Info: privml.pdf , page7 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 7>
-Package pdftex.def Info: privml.pdf , page7 used on input line 217.
+Package pdftex.def Info: privml.pdf , page7 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [34
 
  <./privml.pdf>]
-<privml.pdf, id=557, page=8, 722.7pt x 406.51875pt>
+<privml.pdf, id=554, page=8, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 8>
-Package pdftex.def Info: privml.pdf , page8 used on input line 217.
+Package pdftex.def Info: privml.pdf , page8 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 8>
-Package pdftex.def Info: privml.pdf , page8 used on input line 217.
+Package pdftex.def Info: privml.pdf , page8 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 8>
-Package pdftex.def Info: privml.pdf , page8 used on input line 217.
+Package pdftex.def Info: privml.pdf , page8 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [35
 
  <./privml.pdf>]
-<privml.pdf, id=566, page=9, 722.7pt x 406.51875pt>
+<privml.pdf, id=562, page=9, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 9>
-Package pdftex.def Info: privml.pdf , page9 used on input line 217.
+Package pdftex.def Info: privml.pdf , page9 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 9>
-Package pdftex.def Info: privml.pdf , page9 used on input line 217.
+Package pdftex.def Info: privml.pdf , page9 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 9>
-Package pdftex.def Info: privml.pdf , page9 used on input line 217.
+Package pdftex.def Info: privml.pdf , page9 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [36
 
  <./privml.pdf>]
-<privml.pdf, id=572, page=10, 722.7pt x 406.51875pt>
+<privml.pdf, id=569, page=10, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 10>
-Package pdftex.def Info: privml.pdf , page10 used on input line 217.
+Package pdftex.def Info: privml.pdf , page10 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 10>
-Package pdftex.def Info: privml.pdf , page10 used on input line 217.
+Package pdftex.def Info: privml.pdf , page10 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 10>
-Package pdftex.def Info: privml.pdf , page10 used on input line 217.
+Package pdftex.def Info: privml.pdf , page10 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [37
 
  <./privml.pdf>]
-<privml.pdf, id=582, page=11, 722.7pt x 406.51875pt>
+<privml.pdf, id=579, page=11, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 11>
-Package pdftex.def Info: privml.pdf , page11 used on input line 217.
+Package pdftex.def Info: privml.pdf , page11 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 11>
-Package pdftex.def Info: privml.pdf , page11 used on input line 217.
+Package pdftex.def Info: privml.pdf , page11 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 11>
-Package pdftex.def Info: privml.pdf , page11 used on input line 217.
+Package pdftex.def Info: privml.pdf , page11 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [38
 
  <./privml.pdf>]
-<privml.pdf, id=596, page=12, 722.7pt x 406.51875pt>
+<privml.pdf, id=593, page=12, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 12>
-Package pdftex.def Info: privml.pdf , page12 used on input line 217.
+Package pdftex.def Info: privml.pdf , page12 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 12>
-Package pdftex.def Info: privml.pdf , page12 used on input line 217.
+Package pdftex.def Info: privml.pdf , page12 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 12>
-Package pdftex.def Info: privml.pdf , page12 used on input line 217.
+Package pdftex.def Info: privml.pdf , page12 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [39
 
  <./privml.pdf>]
-<privml.pdf, id=602, page=13, 722.7pt x 406.51875pt>
+<privml.pdf, id=599, page=13, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 13>
-Package pdftex.def Info: privml.pdf , page13 used on input line 217.
+Package pdftex.def Info: privml.pdf , page13 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 13>
-Package pdftex.def Info: privml.pdf , page13 used on input line 217.
+Package pdftex.def Info: privml.pdf , page13 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 13>
-Package pdftex.def Info: privml.pdf , page13 used on input line 217.
+Package pdftex.def Info: privml.pdf , page13 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [40
 
  <./privml.pdf>]
-<privml.pdf, id=631, page=14, 722.7pt x 406.51875pt>
+<privml.pdf, id=628, page=14, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 14>
-Package pdftex.def Info: privml.pdf , page14 used on input line 217.
+Package pdftex.def Info: privml.pdf , page14 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 14>
-Package pdftex.def Info: privml.pdf , page14 used on input line 217.
+Package pdftex.def Info: privml.pdf , page14 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 14>
-Package pdftex.def Info: privml.pdf , page14 used on input line 217.
+Package pdftex.def Info: privml.pdf , page14 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [41
 
  <./privml.pdf>]
-<privml.pdf, id=640, page=15, 722.7pt x 406.51875pt>
+<privml.pdf, id=636, page=15, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 15>
-Package pdftex.def Info: privml.pdf , page15 used on input line 217.
+Package pdftex.def Info: privml.pdf , page15 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 15>
-Package pdftex.def Info: privml.pdf , page15 used on input line 217.
+Package pdftex.def Info: privml.pdf , page15 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 15>
-Package pdftex.def Info: privml.pdf , page15 used on input line 217.
+Package pdftex.def Info: privml.pdf , page15 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [42
 
  <./privml.pdf>]
-<privml.pdf, id=648, page=16, 722.7pt x 406.51875pt>
+<privml.pdf, id=645, page=16, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 16>
-Package pdftex.def Info: privml.pdf , page16 used on input line 217.
+Package pdftex.def Info: privml.pdf , page16 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 16>
-Package pdftex.def Info: privml.pdf , page16 used on input line 217.
+Package pdftex.def Info: privml.pdf , page16 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 16>
-Package pdftex.def Info: privml.pdf , page16 used on input line 217.
+Package pdftex.def Info: privml.pdf , page16 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [43
 
  <./privml.pdf>]
-<privml.pdf, id=654, page=17, 722.7pt x 406.51875pt>
+<privml.pdf, id=651, page=17, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 17>
-Package pdftex.def Info: privml.pdf , page17 used on input line 217.
+Package pdftex.def Info: privml.pdf , page17 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 17>
-Package pdftex.def Info: privml.pdf , page17 used on input line 217.
+Package pdftex.def Info: privml.pdf , page17 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 17>
-Package pdftex.def Info: privml.pdf , page17 used on input line 217.
+Package pdftex.def Info: privml.pdf , page17 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [44
 
  <./privml.pdf>]
-<privml.pdf, id=660, page=18, 722.7pt x 406.51875pt>
+<privml.pdf, id=657, page=18, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 18>
-Package pdftex.def Info: privml.pdf , page18 used on input line 217.
+Package pdftex.def Info: privml.pdf , page18 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 18>
-Package pdftex.def Info: privml.pdf , page18 used on input line 217.
+Package pdftex.def Info: privml.pdf , page18 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 18>
-Package pdftex.def Info: privml.pdf , page18 used on input line 217.
+Package pdftex.def Info: privml.pdf , page18 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [45
 
  <./privml.pdf>]
-<privml.pdf, id=666, page=19, 722.7pt x 406.51875pt>
+<privml.pdf, id=663, page=19, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 19>
-Package pdftex.def Info: privml.pdf , page19 used on input line 217.
+Package pdftex.def Info: privml.pdf , page19 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 19>
-Package pdftex.def Info: privml.pdf , page19 used on input line 217.
+Package pdftex.def Info: privml.pdf , page19 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 19>
-Package pdftex.def Info: privml.pdf , page19 used on input line 217.
+Package pdftex.def Info: privml.pdf , page19 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [46
 
  <./privml.pdf>]
-<privml.pdf, id=672, page=20, 722.7pt x 406.51875pt>
+<privml.pdf, id=669, page=20, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 20>
-Package pdftex.def Info: privml.pdf , page20 used on input line 217.
+Package pdftex.def Info: privml.pdf , page20 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 20>
-Package pdftex.def Info: privml.pdf , page20 used on input line 217.
+Package pdftex.def Info: privml.pdf , page20 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 20>
-Package pdftex.def Info: privml.pdf , page20 used on input line 217.
+Package pdftex.def Info: privml.pdf , page20 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [47
 
  <./privml.pdf>]
-<privml.pdf, id=679, page=21, 722.7pt x 406.51875pt>
+<privml.pdf, id=675, page=21, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 21>
-Package pdftex.def Info: privml.pdf , page21 used on input line 217.
+Package pdftex.def Info: privml.pdf , page21 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 21>
-Package pdftex.def Info: privml.pdf , page21 used on input line 217.
+Package pdftex.def Info: privml.pdf , page21 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 21>
-Package pdftex.def Info: privml.pdf , page21 used on input line 217.
+Package pdftex.def Info: privml.pdf , page21 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [48
 
  <./privml.pdf>]
-<privml.pdf, id=685, page=22, 722.7pt x 406.51875pt>
+<privml.pdf, id=682, page=22, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 22>
-Package pdftex.def Info: privml.pdf , page22 used on input line 217.
+Package pdftex.def Info: privml.pdf , page22 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 22>
-Package pdftex.def Info: privml.pdf , page22 used on input line 217.
+Package pdftex.def Info: privml.pdf , page22 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 22>
-Package pdftex.def Info: privml.pdf , page22 used on input line 217.
+Package pdftex.def Info: privml.pdf , page22 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [49
 
  <./privml.pdf>]
-<privml.pdf, id=691, page=23, 722.7pt x 406.51875pt>
+<privml.pdf, id=688, page=23, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 23>
-Package pdftex.def Info: privml.pdf , page23 used on input line 217.
+Package pdftex.def Info: privml.pdf , page23 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 23>
-Package pdftex.def Info: privml.pdf , page23 used on input line 217.
+Package pdftex.def Info: privml.pdf , page23 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 23>
-Package pdftex.def Info: privml.pdf , page23 used on input line 217.
+Package pdftex.def Info: privml.pdf , page23 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [50
 
  <./privml.pdf>]
-<privml.pdf, id=697, page=24, 722.7pt x 406.51875pt>
+<privml.pdf, id=694, page=24, 722.7pt x 406.51875pt>
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 24>
-Package pdftex.def Info: privml.pdf , page24 used on input line 217.
+Package pdftex.def Info: privml.pdf , page24 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 24>
-Package pdftex.def Info: privml.pdf , page24 used on input line 217.
+Package pdftex.def Info: privml.pdf , page24 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
 File: privml.pdf Graphic file (type pdf)
 <use privml.pdf, page 24>
-Package pdftex.def Info: privml.pdf , page24 used on input line 217.
+Package pdftex.def Info: privml.pdf , page24 used on input line 216.
 (pdftex.def)             Requested size: 722.69823pt x 406.51775pt.
  [51
 
@@ -1230,334 +1222,334 @@ Package pdftex.def Info: privml.pdf , page24 used on input line 217.
 Chapter 6.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 227.
+(hyperref)                than one, level fixed on input line 226.
 
 [53
 
 
 ]
-<specreflow.pdf, id=715, 614.295pt x 794.97pt>
+<specreflow.pdf, id=711, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf>
-Package pdftex.def Info: specreflow.pdf  used on input line 242.
+Package pdftex.def Info: specreflow.pdf  used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf>
-Package pdftex.def Info: specreflow.pdf  used on input line 242.
+Package pdftex.def Info: specreflow.pdf  used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<specreflow.pdf, id=718, page=1, 614.295pt x 794.97pt>
+<specreflow.pdf, id=714, page=1, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 1>
-Package pdftex.def Info: specreflow.pdf , page1 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page1 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 1>
-Package pdftex.def Info: specreflow.pdf , page1 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page1 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [54]
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 1>
-Package pdftex.def Info: specreflow.pdf , page1 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page1 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 1>
-Package pdftex.def Info: specreflow.pdf , page1 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page1 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 1>
-Package pdftex.def Info: specreflow.pdf , page1 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page1 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [55
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=768, page=2, 614.295pt x 794.97pt>
+<specreflow.pdf, id=764, page=2, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 2>
-Package pdftex.def Info: specreflow.pdf , page2 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page2 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 2>
-Package pdftex.def Info: specreflow.pdf , page2 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page2 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 2>
-Package pdftex.def Info: specreflow.pdf , page2 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page2 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [56
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=778, page=3, 614.295pt x 794.97pt>
+<specreflow.pdf, id=775, page=3, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 3>
-Package pdftex.def Info: specreflow.pdf , page3 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page3 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 3>
-Package pdftex.def Info: specreflow.pdf , page3 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page3 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 3>
-Package pdftex.def Info: specreflow.pdf , page3 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page3 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [57
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=793, page=4, 614.295pt x 794.97pt>
+<specreflow.pdf, id=790, page=4, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 4>
-Package pdftex.def Info: specreflow.pdf , page4 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page4 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 4>
-Package pdftex.def Info: specreflow.pdf , page4 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page4 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 4>
-Package pdftex.def Info: specreflow.pdf , page4 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page4 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [58
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=820, page=5, 614.295pt x 794.97pt>
+<specreflow.pdf, id=817, page=5, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 5>
-Package pdftex.def Info: specreflow.pdf , page5 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page5 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 5>
-Package pdftex.def Info: specreflow.pdf , page5 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page5 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 5>
-Package pdftex.def Info: specreflow.pdf , page5 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page5 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [59
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=868, page=6, 614.295pt x 794.97pt>
+<specreflow.pdf, id=864, page=6, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 6>
-Package pdftex.def Info: specreflow.pdf , page6 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page6 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 6>
-Package pdftex.def Info: specreflow.pdf , page6 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page6 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 6>
-Package pdftex.def Info: specreflow.pdf , page6 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page6 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [60
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=894, page=7, 614.295pt x 794.97pt>
+<specreflow.pdf, id=891, page=7, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 7>
-Package pdftex.def Info: specreflow.pdf , page7 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page7 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 7>
-Package pdftex.def Info: specreflow.pdf , page7 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page7 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 7>
-Package pdftex.def Info: specreflow.pdf , page7 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page7 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 [61
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=916, page=8, 614.295pt x 794.97pt>
+<specreflow.pdf, id=913, page=8, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 8>
-Package pdftex.def Info: specreflow.pdf , page8 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page8 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 8>
-Package pdftex.def Info: specreflow.pdf , page8 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page8 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 8>
-Package pdftex.def Info: specreflow.pdf , page8 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page8 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [62
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=925, page=9, 614.295pt x 794.97pt>
+<specreflow.pdf, id=922, page=9, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 9>
-Package pdftex.def Info: specreflow.pdf , page9 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page9 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 9>
-Package pdftex.def Info: specreflow.pdf , page9 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page9 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 9>
-Package pdftex.def Info: specreflow.pdf , page9 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page9 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [63
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=946, page=10, 614.295pt x 794.97pt>
+<specreflow.pdf, id=943, page=10, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 10>
-Package pdftex.def Info: specreflow.pdf , page10 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page10 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 10>
-Package pdftex.def Info: specreflow.pdf , page10 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page10 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 10>
-Package pdftex.def Info: specreflow.pdf , page10 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page10 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 [64
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=958, page=11, 614.295pt x 794.97pt>
+<specreflow.pdf, id=955, page=11, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 11>
-Package pdftex.def Info: specreflow.pdf , page11 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page11 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 11>
-Package pdftex.def Info: specreflow.pdf , page11 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page11 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 11>
-Package pdftex.def Info: specreflow.pdf , page11 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page11 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [65
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=981, page=12, 614.295pt x 794.97pt>
+<specreflow.pdf, id=977, page=12, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 12>
-Package pdftex.def Info: specreflow.pdf , page12 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page12 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 12>
-Package pdftex.def Info: specreflow.pdf , page12 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page12 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 12>
-Package pdftex.def Info: specreflow.pdf , page12 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page12 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [66
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=990, page=13, 614.295pt x 794.97pt>
+<specreflow.pdf, id=987, page=13, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 13>
-Package pdftex.def Info: specreflow.pdf , page13 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page13 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 13>
-Package pdftex.def Info: specreflow.pdf , page13 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page13 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 13>
-Package pdftex.def Info: specreflow.pdf , page13 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page13 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 [67
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=1005, page=14, 614.295pt x 794.97pt>
+<specreflow.pdf, id=1002, page=14, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 14>
-Package pdftex.def Info: specreflow.pdf , page14 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page14 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 14>
-Package pdftex.def Info: specreflow.pdf , page14 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page14 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 14>
-Package pdftex.def Info: specreflow.pdf , page14 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page14 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [68
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=1027, page=15, 614.295pt x 794.97pt>
+<specreflow.pdf, id=1024, page=15, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 15>
-Package pdftex.def Info: specreflow.pdf , page15 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page15 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 15>
-Package pdftex.def Info: specreflow.pdf , page15 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page15 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 15>
-Package pdftex.def Info: specreflow.pdf , page15 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page15 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [69
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=1041, page=16, 614.295pt x 794.97pt>
+<specreflow.pdf, id=1038, page=16, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 16>
-Package pdftex.def Info: specreflow.pdf , page16 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page16 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 16>
-Package pdftex.def Info: specreflow.pdf , page16 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page16 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 16>
-Package pdftex.def Info: specreflow.pdf , page16 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page16 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 [70
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=1055, page=17, 614.295pt x 794.97pt>
+<specreflow.pdf, id=1052, page=17, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 17>
-Package pdftex.def Info: specreflow.pdf , page17 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page17 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 17>
-Package pdftex.def Info: specreflow.pdf , page17 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page17 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 17>
-Package pdftex.def Info: specreflow.pdf , page17 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page17 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [71
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=1071, page=18, 614.295pt x 794.97pt>
+<specreflow.pdf, id=1067, page=18, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 18>
-Package pdftex.def Info: specreflow.pdf , page18 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page18 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 18>
-Package pdftex.def Info: specreflow.pdf , page18 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page18 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 18>
-Package pdftex.def Info: specreflow.pdf , page18 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page18 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [72
 
  <./specreflow.pdf>]
-<specreflow.pdf, id=1080, page=19, 614.295pt x 794.97pt>
+<specreflow.pdf, id=1077, page=19, 614.295pt x 794.97pt>
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 19>
-Package pdftex.def Info: specreflow.pdf , page19 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page19 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 19>
-Package pdftex.def Info: specreflow.pdf , page19 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page19 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: specreflow.pdf Graphic file (type pdf)
 <use specreflow.pdf, page 19>
-Package pdftex.def Info: specreflow.pdf , page19 used on input line 242.
+Package pdftex.def Info: specreflow.pdf , page19 used on input line 241.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 [73
@@ -1573,11 +1565,11 @@ Package rerunfilecheck Info: File `portfolio.out' has not changed.
 (rerunfilecheck)             Checksum: F47A5D13743A04B1B881997D830BB1DD;4954.
  ) 
 Here is how much of TeX's memory you used:
- 11478 strings out of 475567
- 183548 string characters out of 5777889
+ 11480 strings out of 475567
+ 183583 string characters out of 5777889
  1936187 words of memory out of 5000000
- 33381 multiletter control sequences out of 15000+600000
- 563435 words of font info for 54 fonts, out of 8000000 for 9000
+ 33383 multiletter control sequences out of 15000+600000
+ 564041 words of font info for 56 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  75i,18n,79p,961b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/haoli/Library/texlive/2024basic/texmf-var/fonts/pk/ljfour/jknappen/e
@@ -1597,10 +1589,10 @@ c/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive
 basic/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024basi
 c/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024basic/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on portfolio.pdf (75 pages, 10346655 bytes).
+Output written on portfolio.pdf (74 pages, 10346398 bytes).
 PDF statistics:
- 1148 PDF objects out of 1200 (max. 8388607)
- 770 compressed objects within 8 object streams
+ 1145 PDF objects out of 1200 (max. 8388607)
+ 768 compressed objects within 8 object streams
  107 named destinations out of 1000 (max. 500000)
  590 words of extra memory for PDF output out of 10000 (max. 10000000)
 
